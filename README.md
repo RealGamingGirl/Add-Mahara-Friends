@@ -1,5 +1,3 @@
-# How to use:
-
 # Windows
 For Windows you can use the AddFriends.exe
 
